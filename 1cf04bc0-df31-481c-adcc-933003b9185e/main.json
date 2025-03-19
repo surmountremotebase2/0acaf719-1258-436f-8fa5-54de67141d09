@@ -1,1 +1,1 @@
-{"allocations": {"VOO": 10.0, "AMZN": 10.0, "GOOG": 10.0, "JPM": 10.0, "V": 12.0, "VTI": 8.0, "IVV": 5.0, "SPY": 5.0, "NVDA": 20.0, "AAPL": 10.0}, "frequency": 1, "name": "", "period": "days"}
+{"allocations": {"VOO": 10.0, "AMZN": 10.0, "GOOG": 10.0, "JPM": 10.0, "V": 12.0, "VTI": 8.0, "IVV": 5.0, "SPY": 5.0, "NVDA": 20.0, "AAPL": 10.0}, "frequency": 15, "name": "", "period": "days"}
